@@ -1,6 +1,6 @@
 # Multiple-Disease-Prediction-System
 
-It is a machine learning model built using Google Colab to predict the early stage possibilities of Diabetes, Parkinson & Heart Diseases
+It is a machine learning model built using python to predict the early stage possibilities of Diabetes, Parkinson & Heart Diseases
 in a patient with 99% accuracy.
 
 Tech stack used- 
