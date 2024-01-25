@@ -5,5 +5,8 @@ in a patient with 99% accuracy.
 
 Tech stack used- 
 
-Used Support Vector Machine Algorithm provided by Scikit-Learn. Other includes Streamlit, Pickle module
-for serialization, Numpy, Pandas, Scikit-learn to split, standardize, train test the data.
+-> Support Vector Machine Algorithm provided by Scikit-Learn. 
+
+-> Streamlit, Pickle module for serialization.
+
+-> Numpy, Pandas, Scikit-learn to split, standardize, train and test the data.
